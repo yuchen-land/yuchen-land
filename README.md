@@ -1,7 +1,7 @@
 ## ✨ Hi there, I'm Cindy 👋
 
 [![Deployment Status](https://img.shields.io/badge/Website-Live-4285F4)](https://yuchen-land.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](https://www.linkedin.com/in/yuchen-liu-cindy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](http://linkedin.com/in/yuchenliu0401/)
 [![Contact Email](https://img.shields.io/badge/Email-yuchen880401%40gmail.com-D14836)](mailto:yuchen880401@gmail.com)
 
 ## 💡 About Me
