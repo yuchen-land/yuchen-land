@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Yu-Chen (Cindy), Liu - Software Engineer Portfolio ✨
+## ✨ Hi there, I'm Cindy 👋
 
 [![Deployment Status](https://img.shields.io/badge/Website-Live-4285F4)](https://yuchen-land.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](https://www.linkedin.com/in/yuchen-liu-cindy/)
@@ -18,7 +16,7 @@ I specialize in full-stack development, UI/UX design, and system performance opt
 | :--- | :--- |
 | **Experience** | 3+ Years Professional Experience |
 | **Projects** | 8+ Complete Projects Built |
-| **Links** | [Personal Website](https://yuchen-land.github.io/) \| [Full Resume (PDF)](/YuChen_Liu_Resume.pdf) |
+| **Links** | [Personal Website](https://yuchen-land.github.io/) |
 
 ---
 
