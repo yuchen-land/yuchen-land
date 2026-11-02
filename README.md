@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://yuchen-land.github.io"><img src="assets/btn-website-light.svg#gh-light-mode-only" height="46" alt="Website" /><img src="assets/btn-website-dark.svg#gh-dark-mode-only" height="46" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/yuchenliu0401/"><img src="assets/btn-linkedin-light.svg#gh-light-mode-only" height="46" alt="LinkedIn" /><img src="assets/btn-linkedin-dark.svg#gh-dark-mode-only" height="46" alt="LinkedIn" /></a>
-  <a href="mailto:yuchen880401@gmail.com"><img src="assets/btn-email-light.svg#gh-light-mode-only" height="46" alt="Email" /><img src="assets/btn-email-dark.svg#gh-dark-mode-only" height="46" alt="Email" /></a>
+  <a href="https://yuchen-land.github.io#gh-light-mode-only"><img src="assets/btn-website-light.svg#gh-light-mode-only" height="46" alt="Website" /></a><a href="https://yuchen-land.github.io#gh-dark-mode-only"><img src="assets/btn-website-dark.svg#gh-dark-mode-only" height="46" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/yuchenliu0401/#gh-light-mode-only"><img src="assets/btn-linkedin-light.svg#gh-light-mode-only" height="46" alt="LinkedIn" /></a><a href="https://www.linkedin.com/in/yuchenliu0401/#gh-dark-mode-only"><img src="assets/btn-linkedin-dark.svg#gh-dark-mode-only" height="46" alt="LinkedIn" /></a>
+  <a href="mailto:yuchen880401@gmail.com#gh-light-mode-only"><img src="assets/btn-email-light.svg#gh-light-mode-only" height="46" alt="Email" /></a><a href="mailto:yuchen880401@gmail.com#gh-dark-mode-only"><img src="assets/btn-email-dark.svg#gh-dark-mode-only" height="46" alt="Email" /></a>
 </p>
 
 <br/>
@@ -13,9 +13,9 @@
 <p align="center"><img src="assets/section-work-light.svg#gh-light-mode-only" width="100%" alt="Selected Work" /><img src="assets/section-work-dark.svg#gh-dark-mode-only" width="100%" alt="Selected Work" /></p>
 
 <p align="center">
-  <a href="https://myedit.online/"><img src="assets/card-myedit-light.svg#gh-light-mode-only" width="32%" alt="MyEdit & MyEdit Business" /><img src="assets/card-myedit-dark.svg#gh-dark-mode-only" width="32%" alt="MyEdit & MyEdit Business" /></a>
-  <a href="https://www.holly-world.com.tw/"><img src="assets/card-holly-light.svg#gh-light-mode-only" width="32%" alt="Holly World" /><img src="assets/card-holly-dark.svg#gh-dark-mode-only" width="32%" alt="Holly World" /></a>
-  <a href="https://yuchen-land.github.io/srv6-proa"><img src="assets/card-srv6-light.svg#gh-light-mode-only" width="32%" alt="SRv6 PROA Dashboard" /><img src="assets/card-srv6-dark.svg#gh-dark-mode-only" width="32%" alt="SRv6 PROA Dashboard" /></a>
+  <a href="https://myedit.online/#gh-light-mode-only"><img src="assets/card-myedit-light.svg#gh-light-mode-only" width="32%" alt="MyEdit & MyEdit Business" /></a><a href="https://myedit.online/#gh-dark-mode-only"><img src="assets/card-myedit-dark.svg#gh-dark-mode-only" width="32%" alt="MyEdit & MyEdit Business" /></a>
+  <a href="https://www.holly-world.com.tw/#gh-light-mode-only"><img src="assets/card-holly-light.svg#gh-light-mode-only" width="32%" alt="Holly World" /></a><a href="https://www.holly-world.com.tw/#gh-dark-mode-only"><img src="assets/card-holly-dark.svg#gh-dark-mode-only" width="32%" alt="Holly World" /></a>
+  <a href="https://yuchen-land.github.io/srv6-proa#gh-light-mode-only"><img src="assets/card-srv6-light.svg#gh-light-mode-only" width="32%" alt="SRv6 PROA Dashboard" /></a><a href="https://yuchen-land.github.io/srv6-proa#gh-dark-mode-only"><img src="assets/card-srv6-dark.svg#gh-dark-mode-only" width="32%" alt="SRv6 PROA Dashboard" /></a>
 </p>
 
 <br/>
