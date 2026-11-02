@@ -13,9 +13,9 @@
 <p align="center"><img src="assets/section-work-light.svg#gh-light-mode-only" width="100%" alt="Selected Work" /><img src="assets/section-work-dark.svg#gh-dark-mode-only" width="100%" alt="Selected Work" /></p>
 
 <p align="center">
-  <a href="https://myedit.online/#gh-light-mode-only"><img src="assets/card-myedit-light.svg#gh-light-mode-only" width="32%" alt="MyEdit & MyEdit Business" /></a><a href="https://myedit.online/#gh-dark-mode-only"><img src="assets/card-myedit-dark.svg#gh-dark-mode-only" width="32%" alt="MyEdit & MyEdit Business" /></a>
-  <a href="https://www.holly-world.com.tw/#gh-light-mode-only"><img src="assets/card-holly-light.svg#gh-light-mode-only" width="32%" alt="Holly World" /></a><a href="https://www.holly-world.com.tw/#gh-dark-mode-only"><img src="assets/card-holly-dark.svg#gh-dark-mode-only" width="32%" alt="Holly World" /></a>
-  <a href="https://yuchen-land.github.io/srv6-proa#gh-light-mode-only"><img src="assets/card-srv6-light.svg#gh-light-mode-only" width="32%" alt="SRv6 PROA Dashboard" /></a><a href="https://yuchen-land.github.io/srv6-proa#gh-dark-mode-only"><img src="assets/card-srv6-dark.svg#gh-dark-mode-only" width="32%" alt="SRv6 PROA Dashboard" /></a>
+  <a href="https://myedit.online/#gh-light-mode-only"><img src="assets/card-myedit-light.svg#gh-light-mode-only" width="270" alt="MyEdit & MyEdit Business" /></a><a href="https://myedit.online/#gh-dark-mode-only"><img src="assets/card-myedit-dark.svg#gh-dark-mode-only" width="270" alt="MyEdit & MyEdit Business" /></a>
+  <a href="https://www.holly-world.com.tw/#gh-light-mode-only"><img src="assets/card-holly-light.svg#gh-light-mode-only" width="270" alt="Holly World" /></a><a href="https://www.holly-world.com.tw/#gh-dark-mode-only"><img src="assets/card-holly-dark.svg#gh-dark-mode-only" width="270" alt="Holly World" /></a>
+  <a href="https://yuchen-land.github.io/srv6-proa#gh-light-mode-only"><img src="assets/card-srv6-light.svg#gh-light-mode-only" width="270" alt="SRv6 PROA Dashboard" /></a><a href="https://yuchen-land.github.io/srv6-proa#gh-dark-mode-only"><img src="assets/card-srv6-dark.svg#gh-dark-mode-only" width="270" alt="SRv6 PROA Dashboard" /></a>
 </p>
 
 <br/>
