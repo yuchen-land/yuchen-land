@@ -10,7 +10,7 @@
 .type{animation:type 7s steps(27) infinite}@keyframes type{0%{width:0}40%,85%{width:280px}100%{width:0}}
 .fade{animation:fade 1.2s ease-out both}.fade2{animation:fade 1.2s .3s ease-out both}.fade3{animation:fade 1.2s .6s ease-out both}
 @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-@media (prefers-color-scheme:dark){.bgr{fill:#0d1117}.blobs{opacity:.13}.b1,.b2,.b3{fill:#f43f5e}.frame{stroke:#21262d}.pill{fill:#f43f5e;fill-opacity:.08;stroke:#f43f5e;stroke-opacity:.35}.role{fill:#fb7185}.tag{fill:#c9d1d9}.meta{fill:#8b949e}}
+@media (prefers-color-scheme:dark){.bgr{fill-opacity:0}.blobs{opacity:.13}.b1,.b2,.b3{fill:#f43f5e}.frame{stroke:#fff;stroke-opacity:.08}.pill{fill:#f43f5e;fill-opacity:.08;stroke:#f43f5e;stroke-opacity:.35}.role{fill:#fb7185}.tag{fill:#c9d1d9}.meta{fill:#8b949e}}
 </style><defs>
 <radialGradient id="bg" cx="50%" cy="0%" r="90%"><stop offset="0" stop-color="#fff1f2"/><stop offset=".55" stop-color="#fdf6f7"/><stop offset="1" stop-color="#fafafa"/></radialGradient>
 <linearGradient id="ng" x1="0" x2="1"><stop offset="0" stop-color="#fb7185"/><stop offset=".5" stop-color="#f472b6"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
