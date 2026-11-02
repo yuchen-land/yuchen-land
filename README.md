@@ -12,28 +12,11 @@
 
 <p align="center"><img src="assets/section-work.svg" width="100%" alt="Selected Work" /></p>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://myedit.online/"><img src="https://yuchen-land.github.io/images/projects/myedit.jpg" width="100%" alt="MyEdit" /></a>
-      <br/><sub>PRODUCT ENGINEERING · CYBERLINK</sub>
-      <br/><b><a href="https://myedit.online/">MyEdit & MyEdit Business</a></b>
-      <br/><sub>Generative AI image, audio and video tools for 10M+ creators. Led AI-assisted testing in CI/CD — delivery cut from 6 months to 1.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.holly-world.com.tw/"><img src="https://yuchen-land.github.io/images/projects/hollyworld2.png" width="100%" alt="Holly World" /></a>
-      <br/><sub>FULL-STACK · SOLO</sub>
-      <br/><b><a href="https://www.holly-world.com.tw/">Holly World</a></b>
-      <br/><sub>Five-language costume rental platform shipped with AI agents, 7 CI validators and verified rollback. Search clicks 42 → 511.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://yuchen-land.github.io/srv6-proa"><img src="https://yuchen-land.github.io/images/projects/master_thesis.jpg" width="100%" alt="SRv6 PROA Dashboard" /></a>
-      <br/><sub>RESEARCH · APNOMS 2025</sub>
-      <br/><b><a href="https://yuchen-land.github.io/srv6-proa">SRv6 PROA Dashboard</a></b>
-      <br/><sub>Interactive visualization of my master's thesis on adaptive path selection in SDN-based SRv6.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://myedit.online/"><img src="assets/card-myedit.svg" width="32%" alt="MyEdit & MyEdit Business" /></a>
+  <a href="https://www.holly-world.com.tw/"><img src="assets/card-holly.svg" width="32%" alt="Holly World" /></a>
+  <a href="https://yuchen-land.github.io/srv6-proa"><img src="assets/card-srv6.svg" width="32%" alt="SRv6 PROA Dashboard" /></a>
+</p>
 
 <br/>
 
