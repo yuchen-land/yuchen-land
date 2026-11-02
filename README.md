@@ -24,4 +24,4 @@ I build generative AI products and production systems with AI agents, automated 
 - **Backend & Infra:** Node.js, FastAPI, PostgreSQL, Docker, Cloudflare Workers/R2, GitHub Actions
 - **AI Engineering:** Claude Code, Codex, context engineering, automated verification & rollback
 
-<sub>Work account at CyberLink: [@CindyLiu-CL](https://github.com/CindyLiu-CL) · Beyond code, I'm a pâtissière 🧁</sub>
+<sub>Work account at CyberLink: [@CindyLiu-CL](https://github.com/cindyliu-dev) · Beyond code, I'm a pâtissière 🧁</sub>
