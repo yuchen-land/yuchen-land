@@ -1,66 +1,27 @@
-## ✨ Hi there, I'm Cindy 👋
-
 [![Deployment Status](https://img.shields.io/badge/Website-Live-4285F4)](https://yuchen-land.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](http://linkedin.com/in/yuchenliu0401/)
 [![Contact Email](https://img.shields.io/badge/Email-yuchen880401%40gmail.com-D14836)](mailto:yuchen880401@gmail.com)
 
-## 💡 About Me
+# Hi, I'm Cindy 👋
 
-A proactive and curious **Software Engineer** with a passion for building products that simplify life and optimize processes. I excel at transforming complex ideas into highly efficient and seamless practical applications.
+**AI-Native Software Engineer** · Taipei (UTC+8) · Open to remote
 
-I specialize in full-stack development, UI/UX design, and system performance optimization, bringing **3+ years of experience** to the table.
+I build generative AI products and production systems with AI agents, automated verification, and reliable delivery.
 
-### 📊 Quick Facts
+🌐 [Website](https://yuchen-land.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/yuchenliu0401/) · ✉️ yuchen880401@gmail.com
 
-| Item | Description |
-| :--- | :--- |
-| **Experience** | 3+ Years Professional Experience |
-| **Projects** | 8+ Complete Projects Built |
-| **Links** | [Personal Website](https://yuchen-land.github.io/) |
+## 📂 Featured Work
 
----
+| Project | Highlights |
+|---------|------------|
+| [**MyEdit & MyEdit Business**](https://myedit.online/) · CyberLink, 2024–2026 | AI image/audio/video tools for 10M+ creators · AI-assisted testing in CI/CD cut delivery **6 → 1 month** |
+| [**Holly World**](https://www.holly-world.com.tw/) · solo full-stack | 5-language rental platform shipped with AI agents, 7 CI validators & auto-rollback · Google clicks **42 → 511** |
+| [**SRv6 PROA Dashboard**](https://yuchen-land.github.io/srv6-proa) | Interactive demo of my master's thesis on adaptive SDN/SRv6 routing (APNOMS 2025) |
 
-## 🛠️ Technical Expertise (Tech Stack)
+## 🛠 Tech Stack
 
-I am proficient in using modern, high-performance technology stacks for product development:
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend & Infra:** Node.js, FastAPI, PostgreSQL, Docker, Cloudflare Workers/R2, GitHub Actions
+- **AI Engineering:** Claude Code, Codex, context engineering, automated verification & rollback
 
-### 🎨 Frontend & UI/UX
-
-* **Frameworks/Libraries:** **React**, **Next.js** (SSR/SSG), Zustand, Framer Motion.
-* **Styling & Languages:** **TypeScript**, JavaScript, **Tailwind CSS**, HTML/CSS.
-* **Design Tools:** Figma, Photoshop, Illustrator.
-
-### ⚙️ Backend & Development Tools
-
-* **Backend Languages/Frameworks:** **Node.js**, **Python**, RESTful API.
-* **Database & Platforms:** Supabase.
-* **DevOps & Tools:** **Git**, **Docker**, Linux, n8n (Automation).
-* **Testing & Quality:** Jest, Husky (Git Hooks), Zod (Validation).
-
-### 💻 Core Programming Languages
-
-* **C / C++**
-* **Python**
-* **C#**
-
-
-
-## 📚 Academic and Other Projects
-
-### 🎓 Academic Research
-
-| Project Name | Description |
-| :--- | :--- |
-| **Design and Implementation of an Adaptive Path Selection Method in SDN-based SRv6** | **Master's Thesis.** Proposed the **PROA** (Probabilistic Routing Optimization Algorithm) to enhance SRv6's adaptive control, **significantly improving network fault recovery time, packet loss rate, and resource utilization.** Accepted for **APNOMS 2025** conference. |
-| **Key Technologies** | `SRv6` `SDN` `IPv6` `Network Resilience` |
-
-
-## 🤝 Contact & Collaboration
-
-If you are interested in my projects or wish to discuss potential collaborations, please feel free to reach out!
-
-* **Email:** yuchen880401@gmail.com
-* **Personal GitHub:** [https://github.com/yuchen-land](https://github.com/yuchen-land)
-* **Working GitHub:** [https://github.com/CindyLiu-CL](https://github.com/CindyLiu-CL)
-
-**License:** This project is released under the [MIT License](https://choosealicense.com/licenses/mit/).
+<sub>Work account at CyberLink: [@CindyLiu-CL](https://github.com/CindyLiu-CL) · Beyond code, I'm a pâtissière 🧁</sub>
