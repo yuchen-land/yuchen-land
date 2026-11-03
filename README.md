@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-light.svg#gh-light-mode-only" width="100%" alt="Yu-Chen (Cindy) Liu — AI-Native Software Engineer" /><img src="assets/header-dark.svg#gh-dark-mode-only" width="100%" alt="Yu-Chen (Cindy) Liu — AI-Native Software Engineer" />
+  <img src="assets/header-light.svg?v=3#gh-light-mode-only" width="100%" alt="Yu-Chen (Cindy) Liu — AI-Native Software Engineer" /><img src="assets/header-dark.svg?v=3#gh-dark-mode-only" width="100%" alt="Yu-Chen (Cindy) Liu — AI-Native Software Engineer" />
 </p>
 
 <p align="center">
@@ -23,9 +23,11 @@
 <p align="center"><img src="assets/section-stack-light.svg#gh-light-mode-only" width="100%" alt="Tech Stack" /><img src="assets/section-stack-dark.svg#gh-dark-mode-only" width="100%" alt="Tech Stack" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,cloudflare,githubactions&perline=10" height="40" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, FastAPI, PostgreSQL, Docker, Cloudflare, GitHub Actions" />
-  <br/>
-  <sub>AI engineering — Claude Code · Codex · context engineering · automated verification & rollback</sub>
+  <b>AI Engineering</b> — Claude Code · Codex · context engineering · AI agent workflows · automated verification & rollback
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,cloudflare,githubactions&perline=10" height="36" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, FastAPI, PostgreSQL, Docker, Cloudflare, GitHub Actions" />
 </p>
 
 <br/>
