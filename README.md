@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-light.svg?v=3#gh-light-mode-only" width="100%" alt="Yu-Chen (Cindy) Liu — AI-Native Software Engineer" /><img src="assets/header-dark.svg?v=3#gh-dark-mode-only" width="100%" alt="Yu-Chen (Cindy) Liu — AI-Native Software Engineer" />
+  <img src="assets/header-light.svg?v=4#gh-light-mode-only" width="100%" alt="Yu-Chen (Cindy) Liu — AI-Native Software Engineer" /><img src="assets/header-dark.svg?v=4#gh-dark-mode-only" width="100%" alt="Yu-Chen (Cindy) Liu — AI-Native Software Engineer" />
 </p>
 
 <p align="center">
@@ -38,5 +38,5 @@
 <img src="https://raw.githubusercontent.com/yuchen-land/yuchen-land/output/snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contribution graph" />
 
 <p align="center">
-  <sub>Beyond code, I bake at <a href="https://bonbunny.vercel.app/">BonBunny Pastry Studio</a> 🧁 &nbsp;·&nbsp; CyberLink work account <a href="https://github.com/cindyliu-dev">@cindyliu-dev</a></sub>
+  <sub>Beyond code, I bake at <a href="https://bonbunny.vercel.app/">BonBunny Pastry Studio</a> 🧁</sub>
 </p>
